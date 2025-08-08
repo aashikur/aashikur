@@ -93,7 +93,8 @@ A real-time blood donation platform to connect donors, volunteers, and those in 
 
 
 <p align="center"> 
- <img src="https://streak-stats.demolab.com?user=aashikur&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> 
+<img src="https://streak-stats.demolab.com/?user=aashikur&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashikur&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 
@@ -112,8 +113,8 @@ A real-time blood donation platform to connect donors, volunteers, and those in 
 
   <img src="https://github-profile-trophy.vercel.app?username=aashikur&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> 
   
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashikur&radius=16&theme=redical&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+
+
 </div>
 
 ---
