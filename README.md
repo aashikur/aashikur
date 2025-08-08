@@ -13,7 +13,7 @@
 - 📚 Learning advanced **Backend, REST APIs, and Deployment Strategies**.
 - 🧠 Exploring concepts like **Authentication, Role-based Dashboards, and Scalable UI Design**.
 - 🎯 2025 Goal: Master **TypeScript** & contribute to open-source.
-
+- Full Stack Developer | React · Node.js · Firebase · WordPress 
 ---
 
 ### 🛠️ Tech Stack
