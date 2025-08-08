@@ -2,6 +2,8 @@
 <!-- GitHub Profile README -->
 
 <img width="100%" src="banner.gif" alt="Profile Picture" />
+<img width="100%" src="banner2.jpg" alt="Profile Picture" />
+<img width="100%" src="banner3.mp4" alt="Profile Picture" />
 
 
 ### 🌱 About Me
