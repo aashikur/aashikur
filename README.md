@@ -96,7 +96,8 @@ A real-time blood donation platform to connect donors, volunteers, and those in 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashikur&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashikur&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://metrics.lecoq.io/aashikur?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FDhaka" alt="Ashik's Metrics" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=aashikur&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashikur&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
