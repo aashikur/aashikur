@@ -66,15 +66,35 @@ I'm a passionate Full Stack Developer from Bangladesh, skilled in React, Node.js
 ---
 
 
-### 🚀 Projects
+## 🚀 Projects
 
-| Name | Stack | Live |
-|------|-------|------|
-| **Ultimata App Store** | React, Firebase, Tailwind | [Live Demo](https://your-live-link.com) |
-| **Freelance Task Marketplace** | MERN Stack | [Live Demo](https://your-live-link.com) |
-| **Blood Donation App** | MERN + Role-based Dashboard | [Live Demo](https://your-live-link.com) |
+### 🔹 [Skill Hunt Global](https://skill-hunt-global.web.app/)
+A freelance marketplace platform connecting clients and freelancers in a seamless environment.
 
-> Want to see more? Check my pinned repos or [explore all projects »](https://github.com/yourusername?tab=repositories)
+- 🛠️ Core Features:  
+  🔸 Post & bid on freelance tasks  
+  🔸 Role-based dashboard (Admin, Client, Freelancer)  
+  🔸 Task management, bidding system, and secure login  
+- ⚙️ Tech Stack: React, TailwindCSS, Firebase Auth, MongoDB, Express.js, Node.js
+
+**🖼️ Screenshot**  
+![Skill Hunt Global Homepage](https://i.ibb.co/Ws14xfs/skill-hunt.png)
+
+---
+
+### 🔹 [Blood Aid Now](https://blood-aid-now.web.app/)
+A real-time blood donation platform to connect donors, volunteers, and those in need across Bangladesh.
+
+- 🛠️ Core Features:  
+  🔸 Role-based dashboards (Admin, Donor, Volunteer)  
+  🔸 Request blood, manage campaigns, approve donors  
+  🔸 Status control, secure login, and user management  
+- ⚙️ Tech Stack: React, TailwindCSS, Firebase, Node.js, Express, MongoDB
+
+**🖼️ Screenshot**  
+![Blood Aid Now Homepage](https://i.ibb.co/5BFnT3W/blood-aid-now.png)
+
+<!-- > Want to see more? Check my pinned repos or [explore all projects »](https://github.com/yourusername?tab=repositories) -->
 
 ---
 
