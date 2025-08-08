@@ -9,20 +9,15 @@
 ### 🌱 About Me
 I'm a passionate Full Stack Developer from Bangladesh, skilled in React, Node.js, Firebase, and WordPress. I love building fast, responsive, and secure web apps that solve real-world problems. Currently, I'm focused on growing as a remote developer while exploring modern tech stacks and personal growth through calisthenics.
 
-### 👨‍💻 Current Focus
-- 💻 I’m currently working on **MERN Stack Projects** and exploring ***Next.js***.
-- 🚀 Always eager to build real-world applications and solve meaningful problems.
-- 📚 Learning advanced **Backend, REST APIs, and Deployment Strategies**.
-- 🧠 Exploring concepts like **Authentication, Role-based Dashboards, and Scalable UI Design**.
-- 🎯 2025 Goal: Master **TypeScript** & contribute to open-source.
-- Full Stack Developer | React · Node.js · Firebase · WordPress 
----
+### 🎯 Current Focus
 
-### 🛠️ Tech Stack
+- 💻 Actively building **MERN Stack** projects and exploring the capabilities of **Next.js**
+- 🤖 Integrating **AI tools & APIs** into full-stack projects to solve **real-world problems**
+- 🔍 Learning advanced concepts like **Authentication**, **Role-Based Dashboards**, and **Scalable UI Design**
+- 📦 Improving skills in **Backend Architecture**, **REST APIs**, and **Full-Stack Deployment**
+- 🌱 2025 Goal: **Master TypeScript** and start contributing to **open-source projects**
+- 🚀 Passionate about building **real-world applications** that are practical, scalable, and impactful
 
-Absolutely! You're using **Shields.io badge style**, which is perfect for a **professional GitHub README**. Below is your full **"Skills & Technologies"** section using that style, categorized and ready to copy.
-
----
 
 ## 🛠️ Skills & Technologies
 
