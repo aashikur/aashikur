@@ -93,29 +93,19 @@ A real-time blood donation platform to connect donors, volunteers, and those in 
 
 
 <p align="center"> 
-
+ <img src="https://streak-stats.demolab.com?user=aashikur&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> 
+ 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashikur&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-
-  <img src="https://metrics.lecoq.io/aashikur?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FDhaka" alt="Ashik's Metrics" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=aashikur&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashikur&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
-## Moumita Star
-<!-- Moumita   -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ItsMoumita&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsMoumita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2&custom_title=Moumita's%20used%20languages" height="150" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=ItsMoumita&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMoumita&radius=16&theme=redical&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
 <!-- Ashik  -->
 ## Ashik's GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aashikur&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+ <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashikur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2&custom_title=Aashik's%20used%20languages" height="150" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=aashikur&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashikur&radius=16&theme=redical&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
