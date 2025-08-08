@@ -104,18 +104,13 @@ A real-time blood donation platform to connect donors, volunteers, and those in 
   
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aashikur&layout=compact&theme=radical&hide_border=true&order=1" height="150" alt="wakatime graph" />
   
+  <br>
+    <img src="https://github-profile-trophy.vercel.app?username=aashikur&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> 
+  
+
 </p>
 
 
-<!-- Ashik  -->
-## Ashik's GitHub Stats
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app?username=aashikur&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> 
-  
-
-
-</div>
 
 ---
 
