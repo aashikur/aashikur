@@ -78,7 +78,7 @@ A freelance marketplace platform connecting clients and freelancers in a seamles
 - ⚙️ Tech Stack: React, TailwindCSS, Firebase Auth, MongoDB, Express.js, Node.js
 
 **🖼️ Screenshot**  
-![Skill Hunt Global Homepage](https://i.ibb.co/Ws14xfs/skill-hunt.png)
+![Skill Hunt Global Homepage](./skill-web.png)
 
 ---
 
@@ -92,7 +92,7 @@ A real-time blood donation platform to connect donors, volunteers, and those in 
 - ⚙️ Tech Stack: React, TailwindCSS, Firebase, Node.js, Express, MongoDB
 
 **🖼️ Screenshot**  
-![Blood Aid Now Homepage](https://i.ibb.co/5BFnT3W/blood-aid-now.png)
+![Blood Aid Now Homepage](./blood-web.png)
 
 <!-- > Want to see more? Check my pinned repos or [explore all projects »](https://github.com/yourusername?tab=repositories) -->
 
@@ -110,10 +110,10 @@ A real-time blood donation platform to connect donors, volunteers, and those in 
 
 ### 📫 Let’s Connect
 
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 📧 Email: [youremail@gmail.com](mailto:youremail@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🧠 Dev.to: [dev.to/yourprofile](https://dev.to/yourprofile)
+<!-- - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
+- 📧 Email: [mdaashikur@gmail.com](mailto:mdaashikur@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mdaashikur](https://linkedin.com/in/mdaashikur)
+<!-- - 🧠 Dev.to: [dev.to/mdaashikur](https://dev.to/mdaashikur) -->
 
 ---
 
