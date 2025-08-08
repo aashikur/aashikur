@@ -1,7 +1,7 @@
 
 <!-- GitHub Profile README -->
 
-<img src="https://avatars.githubusercontent.com/u/yourusername?v=4" alt="Profile Picture" width="150" align="right" />
+<img src="banner.gif" alt="Profile Picture" width="150" align="right" />
 ### 🌱 About Me
 
 - 💻 I’m currently working on **MERN Stack Projects** and improving my **React & Firebase** skills.
