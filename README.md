@@ -1,7 +1,9 @@
 
 <!-- GitHub Profile README -->
 
-<img src="banner.gif" alt="Profile Picture" width="150" align="right" />
+<img width="100%" src="banner.gif" alt="Profile Picture" />
+
+
 ### 🌱 About Me
 
 - 💻 I’m currently working on **MERN Stack Projects** and improving my **React & Firebase** skills.
