@@ -1,11 +1,7 @@
 
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm Aashikur Rahaman 👋</h1>
-<h3 align="center">A passionate Full Stack Developer | MERN | Firebase | TailwindCSS | React ⚡</h3>
-
----
-
+<img src="https://avatars.githubusercontent.com/u/yourusername?v=4" alt="Profile Picture" width="150" align="right" />
 ### 🌱 About Me
 
 - 💻 I’m currently working on **MERN Stack Projects** and improving my **React & Firebase** skills.
