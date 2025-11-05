@@ -7,7 +7,7 @@
 ---
 
 ### 🌱 About Me
-I'm a passionate Full Stack Developer from Bangladesh, skilled in React, Node.js, Firebase, and WordPress. I love building fast, responsive, and secure web apps that solve real-world problems. Currently, I'm focused on growing as a remote developer while exploring modern tech stacks and personal growth through basic calisthenics.
+I'm a passionate Full Stack Developer from Bangladesh, skilled in React, NextJS, Node.js, Firebase, and WordPress. I love building fast, responsive, and secure web apps that solve real-world problems. Currently, I'm focused on growing as a remote developer while exploring modern tech stacks and personal growth through basic calisthenics.
 
 ---
 
