@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer from Bangladesh, skilled in React, NextJS,
 
 ---
 
-### 🎯 Current Focus
+### Current Focus
 
 - 💻 Actively building **MERN Stack** projects and exploring the capabilities of **Next.js**
 - 🤖 Integrating **AI tools & APIs** into full-stack projects to solve **real-world problems**
