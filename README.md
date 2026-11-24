@@ -2,127 +2,93 @@
   <img width="100%" src="banner4.jpg" alt="Profile Banner" />
 
   # Ashikur Rahaman
-  ### **Full-Stack Software Developer**
-  **Next.js · React · Node.js · Backend & Database Engineering**
-
-  <p align="center">
-    Building business-oriented web applications with a focus on backend architecture, authentication, data integrity, and maintainable application design.
-  </p>
+  **Full-Stack Software Developer**  
+  Next.js · React · Node.js · PostgreSQL · MongoDB
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdaashikur)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mdaashikur@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-ashikbuilds.app-000000?style=flat&logo=vercel&logoColor=white)](https://www.ashikbuilds.app/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aashikur)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mdaashikur@gmail.com)
 </div>
 
 ---
 
-### 👨‍💻 Profile & Overview
+## About
 
-I build full-stack web applications focused on solving practical business problems. My work spans frontend development, backend architecture, API design, authentication, database modeling, and third-party integrations.
+I am a full-stack developer based in Bangladesh. I build web applications with React, Next.js, and Node.js, focusing on backend architecture, authentication, database design, and real-world business workflows.
 
-I enjoy turning complex requirements into maintainable software — from e-commerce platforms and financial applications to learning management systems.
+Most of my work involves building complete platforms from scratch — including headless e-commerce, offline-first PWAs, and learning management systems.
 
-- 📍 **Location:** Bangladesh *(Available for Worldwide Remote Roles)*
-- 💻 **Core Focus:** Full-Stack Development & Backend Engineering
-- 🏗️ **Current Work:** Building business-oriented applications and independent products
-- 🌱 **Actively Improving:** TypeScript, Software Testing, System Design, and Database Engineering
-
----
-
-### 🛠️ Technical Skills
-
-| Domain | Technologies & Competencies |
-| :--- | :--- |
-| **Frontend Development** | React.js, Next.js (App Router), JavaScript (ES6+), TypeScript *(actively improving)*, HTML5, CSS3, Tailwind CSS, Redux Toolkit / RTK Query, Responsive UI Development |
-| **Backend Development** | Node.js, Express.js, RESTful API Design, Authentication & Authorization, Role-Based Access Control (RBAC), Request Validation (Zod), API Integration, Server-side Business Logic |
-| **Databases & Storage** | MongoDB & Mongoose, PostgreSQL, Prisma ORM, Drizzle ORM, IndexedDB (Dexie.js), Cloudflare R2 |
-| **Auth & Integrations** | Better Auth, JWT & HTTP-only Cookies, Google OAuth, SSLCommerz, Stripe, Cloudinary & Vimeo APIs, Third-party REST APIs |
-| **Tools & Deployment** | Git, GitHub, Postman, VS Code, Vercel, Linux / VPS, PM2, Cloudflare, AWS S3-compatible SDK |
+- **Current focus:** Full-stack development with Next.js (App Router), Node.js, and PostgreSQL/MongoDB
+- **Working on:** Refining TypeScript patterns, database indexing, and backend test coverage
+- **Availability:** Open to remote engineering roles and contract work
 
 ---
 
-### 🚀 Featured Engineering Projects
+## Technical Skills
 
-#### 1. 💼 Aurem — Config-Driven E-Commerce Platform
-> *A full-stack headless e-commerce platform and merchant management system built with Next.js 16, React 19, and MongoDB.*
-
-* **Layered Architecture:** Separated transport, domain services, persistence, and adapter responsibilities to keep business logic independent of HTTP handlers.
-* **Transactional Inventory:** Implemented server-authoritative pricing and conditional atomic stock updates to reduce overselling risks during concurrent checkout.
-* **Authentication & RBAC:** Integrated Better Auth with secure HTTP-only sessions and role-based administrative access.
-* **Media Infrastructure:** Integrated Cloudflare R2 through the S3 SDK, image optimization, and Cloudinary fallback.
-* **Bangladesh Logistics:** Implemented localized checkout validation, delivery zones, and Steadfast Courier API integration.
-* **Caching Strategy:** Used tag-based caching and targeted cache invalidation for application data.
-* **Tech Stack:** `Next.js 16` · `React 19` · `TypeScript` · `MongoDB` · `Mongoose` · `Better Auth` · `Tailwind CSS v4` · `Cloudflare R2` · `AWS S3 SDK`
-* **Links:** [🌐 Live Application](https://ecommerce.ashikbuilds.app) • [💻 Client Repo](#) • [⚙️ Server Repo](#)
+- **Frontend:** Next.js (App Router), React, JavaScript (ES6+), TypeScript, Tailwind CSS, Redux Toolkit, RTK Query, HTML5, CSS3
+- **Backend & APIs:** Node.js, Express.js, REST APIs, Zod validation, Role-Based Access Control (RBAC), Better Auth, JWT
+- **Databases & Storage:** PostgreSQL, MongoDB, Prisma ORM, Drizzle ORM, Dexie.js (IndexedDB), Cloudflare R2 / S3
+- **Payment & Integrations:** SSLCommerz, Stripe, Vimeo API, Steadfast Courier API, Cloudinary
+- **DevOps & Tooling:** Git, GitHub, Postman, Vercel, Linux / VPS, PM2, Cloudflare
 
 ---
 
-#### 2. 📒 CashBook — Offline-First Financial Ledger PWA
-> *A multi-tenant expense management Progressive Web App designed around local-first data access, background synchronization, and long-term financial record management.*
+## Featured Projects
 
-* **Offline-First Architecture:** Used Dexie.js and IndexedDB for local CRUD operations, cached records, and background synchronization.
-* **Synchronization Engine:** Implemented delta-sync workflows and idempotency keys to support reliable synchronization between local and remote data.
-* **Financial Data Integrity:** Used integer-based paisa/cents representation to avoid floating-point precision issues in financial calculations.
-* **Cloud Storage:** Integrated Cloudflare R2 with presigned S3-compatible upload URLs and client-side image compression.
-* **Multi-Tenant Security:** Implemented organization-scoped access control using Better Auth and Admin / Viewer roles.
-* **Database Design:** Structured PostgreSQL data using Drizzle ORM, with composite indexes for organization and fiscal-period queries.
-* **Tech Stack:** `Next.js 15` · `React 19` · `TypeScript` · `PostgreSQL` · `Neon` · `Drizzle ORM` · `Dexie.js` · `IndexedDB` · `Better Auth` · `Cloudflare R2` · `Zustand` · `Zod`
-* **Links:** [🌐 Live Application](https://cashbook.ashikbuilds.app/) • [💻 Client Repo](#) • [⚙️ Server Repo](#)
+### Aurem — Headless E-Commerce Platform
+A configurable multi-store e-commerce platform and merchant dashboard.
 
----
-
-#### 3. 🏋️ VectorFitLab — Fitness LMS & Digital Commerce Platform
-> *A full-stack fitness education and digital marketplace platform built for course delivery, athlete management, and online training workflows.*
-
-* **Feature-Based Architecture:** Organized application features into reusable components, hooks, services, and types.
-* **Course Management:** Implemented courses, learning modules, lessons, batch scheduling, assignments, and progress tracking.
-* **Video Infrastructure:** Integrated Vimeo APIs, resumable TUS uploads, and media processing workflows.
-* **Payments & Enrollment:** Integrated SSLCommerz with manual payment verification, coupon validation, and enrollment management.
-* **Role-Based Security:** Implemented JWT authentication, HTTP-only cookies, and Admin / Trainer / Athlete permissions.
-* **Runtime Validation:** Used Zod for request validation and application data contracts.
-* **Tech Stack:** `Next.js 16` · `React 19` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `Redux Toolkit` · `RTK Query` · `Tailwind CSS v4` · `Zod` · `SSLCommerz` · `Vimeo API`
-* **Links:** [🌐 Live Application](https://vectorfitlab.com) • [💻 Client Repo](https://github.com/aashikur/vectorfitlab-client) • [⚙️ Server Repo](https://github.com/aashikur/vectorfitlab-server)
+- Built a modular backend separating HTTP handlers from domain logic and database operations.
+- Implemented atomic inventory updates to prevent overselling during checkout spikes.
+- Integrated Better Auth for role-based admin and customer sessions using HTTP-only cookies.
+- Added localized checkout with courier integration (Steadfast) and address validation for Bangladesh.
+- Media pipeline using Cloudflare R2 (S3 SDK) with image optimization fallbacks.
+- **Stack:** Next.js 16, React 19, TypeScript, MongoDB, Mongoose, Better Auth, Tailwind CSS, Cloudflare R2
+- **Links:** [Live Demo](https://ecommerce.ashikbuilds.app)
 
 ---
 
-#### 4. 🎓 RedLabStudio — Learning Management System
-> *A client-oriented learning management and video course delivery platform built to support online education operations and multi-role administration.*
+### CashBook — Offline-First Financial Ledger (PWA)
+An expense and ledger tracking progressive web app built for local-first speed with background cloud synchronization.
 
-* **Role-Based Access Control:** Implemented Admin, Instructor, and Student access permissions.
-* **Learning Management:** Developed course, module, lesson, enrollment, and learning progression workflows.
-* **Media Delivery:** Integrated video delivery infrastructure and resumable upload workflows.
-* **Payment Integration:** Implemented SSLCommerz payment workflows, coupon validation, and enrollment tracking.
-* **Content Management:** Integrated Tiptap rich-text editing and certificate generation.
-* **Data Validation:** Applied Zod schemas for runtime validation across application workflows.
-* **Tech Stack:** `Next.js 16` · `React 19` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `Redux Toolkit` · `RTK Query` · `Tailwind CSS v4` · `Zod` · `SSLCommerz` · `Vimeo / Bunny CDN`
-* **Links:** [🌐 Live Application](https://redlabstudio.com) • [💻 Client Repo](https://github.com/aashikur/redlabstudio-client) • [⚙️ Server Repo](https://github.com/aashikur/redlabstudio-server)
-
----
-
-### 🎯 Current Engineering Focus
-
-* Deepening TypeScript knowledge and type-safe application development.
-* Improving backend architecture, modularity, and separation of concerns.
-* Designing reliable database schemas and robust data access layers.
-* Understanding transaction safety, concurrency, and data consistency.
-* Strengthening authentication, authorization, and application security.
-* Learning unit, integration, and end-to-end testing practices.
-* Improving deployment, monitoring, and production debugging workflows.
+- Local-first architecture using Dexie.js and IndexedDB so users can log transactions with zero network latency.
+- Background sync engine with delta-sync and idempotency keys to resolve conflicts when coming back online.
+- Stored currency in integer units (paisa/cents) to eliminate floating-point calculation errors.
+- PostgreSQL schema designed with Drizzle ORM, using composite indexes on organization and date fields.
+- Multi-tenant data isolation with Admin and Viewer permission levels.
+- **Stack:** Next.js 15, React 19, TypeScript, PostgreSQL, Neon, Drizzle ORM, Dexie.js, Better Auth, Cloudflare R2, Zustand, Zod
+- **Links:** [Live Demo](https://cashbook.ashikbuilds.app/)
 
 ---
 
-### 💡 Engineering Principles
+### VectorFitLab — Fitness LMS & Digital Commerce
+A training platform for fitness coaches and athletes, featuring video courses, program scheduling, and enrollment management.
 
-* **Build for Business:** Align architectural choices with real business requirements, not hype.
-* **Separation of Concerns:** Keep core domain and business logic distinct from transport and infrastructure.
-* **Data Integrity First:** Prioritize schema validation, consistent typing, and transactional consistency.
-* **Pragmatic Simplicity:** Avoid premature abstraction and overengineering; write code that is easy to read and maintain.
-* **Clear Documentation:** Document architecture decisions and contracts so team members can onboard quickly.
+- Feature-based project structure keeping components, hooks, services, and schemas co-located.
+- Video delivery infrastructure using Vimeo APIs with resumable TUS uploads.
+- Payment flow using SSLCommerz with manual payment verification and coupon handling.
+- Role-based route protection and authentication with JWTs and HTTP-only cookies for Admins, Trainers, and Athletes.
+- Request payload and response validation with Zod.
+- **Stack:** Next.js 16, React 19, TypeScript, Node.js, Express, MongoDB, Mongoose, Redux Toolkit, Tailwind CSS, Zod, SSLCommerz, Vimeo API
+- **Links:** [Live Demo](https://vectorfitlab.com) • [Client Repo](https://github.com/aashikur/vectorfitlab-client) • [Server Repo](https://github.com/aashikur/vectorfitlab-server)
 
 ---
 
-### 📊 GitHub Activity
+### RedLabStudio — Video Course LMS
+A learning management platform built for client delivery, online course administration, and student progression tracking.
+
+- Multi-role permission system covering Admins, Instructors, and Students.
+- Video lesson streaming, module ordering, and lesson progress tracking.
+- Course purchase workflows with SSLCommerz, automated enrollment, and coupon codes.
+- Tiptap rich-text editor integration for course material and certificates.
+- **Stack:** Next.js 16, React 19, TypeScript, Node.js, Express, MongoDB, Mongoose, Redux Toolkit, Tailwind CSS, Zod, SSLCommerz
+- **Links:** [Live Demo](https://redlabstudio.com) • [Client Repo](https://github.com/aashikur/redlabstudio-client) • [Server Repo](https://github.com/aashikur/redlabstudio-server)
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashikur&theme=github-compact&hide_border=true" width="100%" alt="GitHub Activity Graph" />
@@ -130,15 +96,9 @@ I enjoy turning complex requirements into maintainable software — from e-comme
 
 ---
 
-### 📫 Let's Connect
+## Contact
 
-I am actively open to discussing software engineering roles, contract projects, and technical collaborations.
-
-* 🌐 **Portfolio:** [ashikbuilds.app](https://www.ashikbuilds.app/)
-* 📧 **Email:** [mdaashikur@gmail.com](mailto:mdaashikur@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/mdaashikur](https://linkedin.com/in/mdaashikur)
-* 🐙 **GitHub:** [github.com/aashikur](https://github.com/aashikur)
-
-<div align="center">
-  <sub><i>“Build practical software. Learn through engineering.”</i></sub>
-</div>
+- **Website:** [ashikbuilds.app](https://www.ashikbuilds.app/)
+- **Email:** [mdaashikur@gmail.com](mailto:mdaashikur@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mdaashikur](https://linkedin.com/in/mdaashikur)
+- **GitHub:** [github.com/aashikur](https://github.com/aashikur)
