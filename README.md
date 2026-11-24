@@ -11,6 +11,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdaashikur)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mdaashikur@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-ashikbuilds.app-000000?style=flat&logo=vercel&logoColor=white)](https://www.ashikbuilds.app/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aashikur)
 </div>
 
@@ -53,7 +54,7 @@ I enjoy turning complex requirements into maintainable software — from e-comme
 * **Bangladesh Logistics:** Implemented localized checkout validation, delivery zones, and Steadfast Courier API integration.
 * **Caching Strategy:** Used tag-based caching and targeted cache invalidation for application data.
 * **Tech Stack:** `Next.js 16` · `React 19` · `TypeScript` · `MongoDB` · `Mongoose` · `Better Auth` · `Tailwind CSS v4` · `Cloudflare R2` · `AWS S3 SDK`
-* **Links:** [🌐 Live Application](#) • [💻 Client Repo](#) • [⚙️ Server Repo](#)
+* **Links:** [🌐 Live Application](https://ecommerce.ashikbuilds.app) • [💻 Client Repo](#) • [⚙️ Server Repo](#)
 
 ---
 
@@ -67,7 +68,7 @@ I enjoy turning complex requirements into maintainable software — from e-comme
 * **Multi-Tenant Security:** Implemented organization-scoped access control using Better Auth and Admin / Viewer roles.
 * **Database Design:** Structured PostgreSQL data using Drizzle ORM, with composite indexes for organization and fiscal-period queries.
 * **Tech Stack:** `Next.js 15` · `React 19` · `TypeScript` · `PostgreSQL` · `Neon` · `Drizzle ORM` · `Dexie.js` · `IndexedDB` · `Better Auth` · `Cloudflare R2` · `Zustand` · `Zod`
-* **Links:** [🌐 Live Application](#) • [💻 Client Repo](#) • [⚙️ Server Repo](#)
+* **Links:** [🌐 Live Application](https://cashbook.ashikbuilds.app/) • [💻 Client Repo](#) • [⚙️ Server Repo](#)
 
 ---
 
@@ -133,6 +134,7 @@ I enjoy turning complex requirements into maintainable software — from e-comme
 
 I am actively open to discussing software engineering roles, contract projects, and technical collaborations.
 
+* 🌐 **Portfolio:** [ashikbuilds.app](https://www.ashikbuilds.app/)
 * 📧 **Email:** [mdaashikur@gmail.com](mailto:mdaashikur@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/mdaashikur](https://linkedin.com/in/mdaashikur)
 * 🐙 **GitHub:** [github.com/aashikur](https://github.com/aashikur)
